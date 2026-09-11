@@ -41,7 +41,7 @@ Este projeto foi desenvolvido para a disciplina de Programação para Dispositiv
 1. Clone o repositório.
 
    ```bash
-   git clone git@github.com:limarobs/TripPlanner.git
+   git clone https://github.com/limarobs/TripPlanner.git
    ```
 
 2. Abra a pasta do projeto no Android Studio.
